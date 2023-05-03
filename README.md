@@ -6,7 +6,7 @@ The updates to this web page have been made to enhance accessibility. The applic
 
 ## Project Example
 
-<img src="./assets/websiteexample.png" alt="Updated Horiseon Hoomepage">
+<img src="" alt="Updated Horiseon Homepage">
 
 ## Credits
 
